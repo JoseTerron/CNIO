@@ -1,0 +1,2 @@
+echo "Project created by Paul" > README
+cat README.dat
