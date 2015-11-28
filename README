@@ -1,3 +1,0 @@
-echo "Project created by Paul" > README
-cat README.dat
-I have added a second line at README
